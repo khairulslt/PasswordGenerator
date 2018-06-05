@@ -27,7 +27,7 @@ pip install pyperclip
 ```
 cd C:\users\user\Desktop\EXAMPLEFOLDER
 ```
-* Congratulations! Now all you need to do is type in the following:
+* Congratulations! You've reached the final step! Now all you need to do is type in the following:
 ```
 python password.py
 ```
@@ -45,3 +45,4 @@ Mohammad Khairul Bin Abdullah
 
 ## Final Notes:
 * First Python Programme made: Will work on transitioning it into a full-fledged Web App (Django/Flask? Or HTML/CSS/JS)
+* Instructions were made with non-coders in mind
