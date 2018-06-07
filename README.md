@@ -41,7 +41,7 @@ python password.py
 
 ## Authors
 
-Mohammad Khairul Bin Abdullah
+Khaislt
 
 ## Final Notes:
 * First Python Programme made: Will work on transitioning it into a full-fledged Web App (Django/Flask? Or HTML/CSS/JS)
